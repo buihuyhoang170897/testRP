@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "62753F326EF5EE062EB0BFEC74AFFC70",
+  "keywordClasses": [
+    {
+      "name": "com.extension.reportportal.service.TestItemService",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

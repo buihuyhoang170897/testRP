@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B31E96304B75C8F82CB4984D3C67F7E2",
+  "keywordClasses": [
+    {
+      "name": "com.extension.reportportal.state.SuiteState",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

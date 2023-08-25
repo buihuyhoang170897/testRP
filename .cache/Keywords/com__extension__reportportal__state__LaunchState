@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "472A46081539676BEEB981641D9F0B52",
+  "keywordClasses": [
+    {
+      "name": "com.extension.reportportal.state.LaunchState",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

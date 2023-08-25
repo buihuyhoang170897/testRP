@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "1B0B1DD681F9AD52FF7DAA1A7131BBF9",
+  "keywordClasses": [
+    {
+      "name": "com.extension.service.builder.RestRequestBuilder",
+      "keywordMethods": []
+    },
+    {
+      "name": "com.extension.service.builder.RestRequestBuilder$InstanceHolder",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

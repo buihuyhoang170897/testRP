@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Katalon_Studio_Windows_64-8.6.5/plugins" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/Katalon_Studio_Windows_64-8.6.5/plugins" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/Katalon_Studio_Windows_64-8.6.5/plugins" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Katalon_Studio_Windows_64-8.6.5/plugins" recursive="false" type="SOURCES" />
+  </library>
+</component>

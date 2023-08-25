@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9162AE54CC7357B5A179A36BCA1470E3",
+  "keywordClasses": [
+    {
+      "name": "com.extension.service.annotation.RequestBuilder",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

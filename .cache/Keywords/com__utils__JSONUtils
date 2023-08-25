@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B82D9CD0B2D0D6D902B118B0CF683DBC",
+  "keywordClasses": [
+    {
+      "name": "com.utils.JSONUtils",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

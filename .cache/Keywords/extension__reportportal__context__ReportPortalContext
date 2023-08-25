@@ -1,0 +1,20 @@
+{
+  "keywordFileContentHash": "DD3DE64BC17DF76752F487C181283547",
+  "keywordClasses": [
+    {
+      "name": "com.extension.reportportal.context.ReportPortalContext",
+      "keywordMethods": [
+        {
+          "name": "captureScreenShotForReportportal",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "com.extension.reportportal.context.ReportPortalContext$ReportPortalState",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

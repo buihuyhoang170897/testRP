@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CC41DB9D23E877CD858B039E430EC7F7",
+  "keywordClasses": [
+    {
+      "name": "com.extension.service.base.BaseService",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

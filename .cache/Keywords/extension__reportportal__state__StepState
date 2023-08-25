@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5AE9339D665017611AD69A83F83D389A",
+  "keywordClasses": [
+    {
+      "name": "com.extension.reportportal.state.StepState",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

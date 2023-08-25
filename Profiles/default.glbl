@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://demo.reportportal.io/api/v1'</initValue>
+      <name>RP_HOST</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMwMDU5OTQsInVzZXJfbmFtZSI6ImRlZmF1bHQiLCJhdXRob3JpdGllcyI6WyJST0xFX1VTRVIiXSwianRpIjoiczFUaC1SUlZNVVZUcUlWRXY3Vm5FeTNSMGlRIiwiY2xpZW50X2lkIjoidWkiLCJzY29wZSI6WyJ1aSJdfQ.6ZHqYr1aUiKiM0OlV-WtqE0gx09WA9hVi_oY_i4HS78'</initValue>
+      <name>RP_TOKEN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'default_personal'</initValue>
+      <name>RP_NAME</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

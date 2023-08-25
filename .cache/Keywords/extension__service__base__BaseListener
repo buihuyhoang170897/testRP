@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9804D7E52CE2A834487FCC9ECF51456F",
+  "keywordClasses": [
+    {
+      "name": "com.extension.service.base.BaseListener",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

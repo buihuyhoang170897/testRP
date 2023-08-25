@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D6CD46EF335FF1B5C320CC449C6F62D7",
+  "keywordClasses": [
+    {
+      "name": "com.extension.reportportal.listener.ReportPortalListener",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "FC983ECD412C3FC2016C66837FDB72A4",
+  "keywordClasses": [
+    {
+      "name": "com.extension.service.builder.RestRequestBuilder",
+      "keywordMethods": []
+    },
+    {
+      "name": "com.extension.service.builder.RestRequestBuilder$InstanceHolder",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
